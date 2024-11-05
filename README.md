@@ -4,10 +4,10 @@
 </div>
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasdrepper&theme=github_dark_dimmed&rank_icon=github" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasdrepper&theme=github_dark_dimmed&rank_icon=github&card_width=200" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasdrepper&langs_count=8&theme=github_dark_dimmed" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasdrepper&langs_count=8&card_width=200&theme=github_dark_dimmed" />
   </a>
 </div>
 
